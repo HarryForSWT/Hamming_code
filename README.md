@@ -13,4 +13,4 @@ String eingabe ="0100001011011011";
 ## Bei Übung 8 gibt es eine Aufgabe, in der man die Fehler suchen muss:
 100010010010110011011
 ## 1.man enrfernt die paritätsbits
-**1** **0** 0**0** 100**1** 0010110**0**11011
+**10**0**0**100**1**0010110**0**11011
