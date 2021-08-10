@@ -1,6 +1,6 @@
 # I. Hamming_code
  berechnet die Paritätsbits für Code
-#Wie funktioniert?
+# Wie funktioniert das?
 ## 1.Man nimmt den Code von der Klausuraufgabe
 ## 2.Entferne die Lüchen(Leeretasten)
 ## 3.in Zeile 15 eingeben
