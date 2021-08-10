@@ -13,9 +13,9 @@ String eingabe ="0100001011011011";
 ## Bei Übung 8 gibt es eine Aufgabe, in der man die Fehler suchen muss:
 100010010010110011011
 ## 1.man enrfernt die paritätsbits
-### **10**0**0**100**1**0010110**0**11011
+**10**0**0**100**1**0010110**0**11011
 ## 2.bekommt den rest
-### 0100 0010 1101 1011
+0100 0010 1101 1011
 ## 3. Gibt so den Code wie in ``I`` gezeigt, bekommt man:
 p1: 1
 p2: 1
@@ -23,10 +23,11 @@ p3: 1
 p4: 1
 p5: 0
 ## 4.Schreibe die neu berechneten Paritätsbits zurück:
-###**11**0**1** 100**1** 0010 110**0** 1101 1
+**11**0**1** 100**1** 0010 110**0** 1101 1
 ## 5. Vergleiche man mit der Aufgabe
 1**1**0**1** 1001 0010 1100 1101 1
 1**0**0**0** 1001 0010 1100 1101 1
 ## 6. Das 2.und 4. Bit sind falsch übertragen worden
 2+4=6
 ## 7. Das 6. Bit ist zu invertieren
+10001**1**010010110011011
