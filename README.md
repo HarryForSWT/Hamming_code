@@ -1,5 +1,5 @@
 # I. Hamming_code
- berechnet die Paritätsbits für Code
+ berechnet die Paritätsbits für Codes
 # Wie funktioniert das?
 ## 1.Man nimmt den Code von der Klausuraufgabe
 ## 2.Entferne die Lüchen(Leeretasten)
@@ -12,7 +12,7 @@ String eingabe ="0100001011011011";
 # II. Wie prüft der Rechner ob Fehler in Hamming-Code auftauchen?
 ## Bei Übung 8 gibt es eine Aufgabe, in der man die Fehler suchen muss:
 100010010010110011011
-## 1.man enrfernt die paritätsbits
+## 1.man entfernt die paritätsbits
 **10**0**0**100**1**0010110**0**11011
 ## 2.bekommt den rest
 0100 0010 1101 1011
